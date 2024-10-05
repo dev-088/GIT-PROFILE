@@ -5,7 +5,7 @@ window.onload = () => {
         formSubmit();
     })
 
-    getUser("kunaltyagi9");
+    
 }
 
 const formSubmit = () => {
